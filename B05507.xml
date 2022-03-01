@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, anent runawayes, and deserters from the Scots regiments lately come from Holland</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05507</idno>
+            <idno type="STC">Wing S1649</idno>
+            <idno type="STC">ESTC R183374</idno>
+            <idno type="EEBO-CITATION">52612298</idno>
+            <idno type="OCLC">ocm 52612298</idno>
+            <idno type="VID">179603</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05507)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179603)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:75)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, anent runawayes, and deserters from the Scots regiments lately come from Holland</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1685-1688 : James VII)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>With list of those present at Council following title.</note>
+                  <note>Dated at end: Given under Our Signet, at Edinburgh, the last day of July, 1685. and of Our Reign the first year.</note>
+                  <note>Signed: Will. Paterson, Cls. Sti. Concilii.</note>
+                  <note>Imperfect: stained with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  Army --  Early works to 1800.</term>
+               <term>Military deserters --  Legal status, laws, etc. --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:179603:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <figure>
+                  <p>J R</p>
+                  <p>
+                     <gap reason="illegible" extent="6 words">
+                        <desc>〈◊◊◊◊◊◊〉</desc>
+                     </gap>
+                  </p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>A PROCLAMATION, Anent Runawayes, and Deſerters from the <hi>Scots</hi> Regiments lately come from <hi>Holland.</hi>
+            </head>
+            <head type="sub">Preſent in Council,
+<list>
+                  <item>The Earl of <hi>Perth,</hi> Lord High Chancellor.</item>
+                  <item>The Duke of <hi>Queens berry,</hi> Lord High Theſawer.</item>
+                  <item>The Earl of <hi>Drumlanrig.</hi>
+                  </item>
+                  <item>The Earl of <hi>Panmure.</hi>
+                  </item>
+                  <item>The Earl of <hi>Kintore.</hi>
+                  </item>
+                  <item>The L. Viſcount <hi>Tarbet.</hi>
+                  </item>
+                  <item>The L. <hi>Livingſtoun.</hi>
+                  </item>
+                  <item>General <hi>Dalyell.</hi>
+                  </item>
+                  <item>Lord Advocat.</item>
+                  <item>Lord Juſtice Clerk.</item>
+               </list>
+            </head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">I</seg>AMES by the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> De<g ref="char:EOLhyphen"/>fender of the Faith,</signed>
+               <salute>To  <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap>  Macers of Our Privy Council, or Meſſengers at Arms, Our Sheriffs in that part, con<g ref="char:EOLhyphen"/>junctly and ſeverally, ſpecially conſtitute, Greeting:</salute>
+            </opener>
+            <p>Whereas We are informed, that ſeveral of the Souldiers of Our Scots Regiments in the Service of the States. Gen<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral of the United Netherlands, do daily deſert and run away from their Colours, without the leave of their Officers, and that thereafter they are either harboured and imployed in this Our ancient Kingdom, notwithſtanding of this their Crime of deſerting, or in<g ref="char:EOLhyphen"/>tertained in Our Forces here, to the great prejudice of Our Service, and the ruine of ſuch Officers, whoſe Cloaths, Moneys, and Arms they ſteal, and at whoſe Expenſes they have been brought into the Service. We therefore with Advice of Our Privy Council, Do hereby ſtrictly For<g ref="char:EOLhyphen"/>bid and Diſcharge any of Our Subjects from imploying any of the ſaids Deſercers and Runawayes: And hereby Require all Our Sheriffs, Stewarts, Lords of Bailiaries, or Regalities, Magiſtrats of Burrows, and Officers of Our Forces, Juſtices of the Peace, and others having Our Authority, to ſearch for, take, and apprehend all or any of the ſaids Deſerters or Runawayes, who have nor ſufficient Paſſes from their Officers, and to commit them to Goal, until they ſhall be demanded by the next Officers having Our Orders for Recruiting thoſe Regi<g ref="char:EOLhyphen"/>ments, to whom they are to be delivered: And if any of them ſhall be taken on in any of Our Forces, or Garri<g ref="char:EOLhyphen"/>ſons (not having good Paſſes as aforeſaid) they are at the demand of the Officers authorized by Us to Recruit thoſe Regiments, to be delivered unto them to be diſpoſed of in the Regiments and Companies, as if they had been taken upon the place of their deſerting: And herein we Require all Perſons concerned to give obedience accordingly. And that Our pleaſure in the Premiſſes may be known, Our Will is, and We Charge you ſtrict<g ref="char:EOLhyphen"/>ly, and Command that incontinent theſe Our Letters ſeen, ye paſs to the Mercat-Croſs of <hi>Edinburgh,</hi> and all the other Mercat-Croſſes of the Head-Burghs of the Shires of this Kingdom, and other places needful, and there in Our Royal Name and Authority, by open Proclamation make Publication of Our pleaſure in the Premiſſes, that all perſons concerned may have notice therof, and give obedience thereto, as they will anſwer at their peril.</p>
+            <closer>
+               <dateline>Given under Our Signet, At <hi>Edinburgh,</hi> 
+                  <date>the laſt day of <hi>July,</hi> 1685. and of Our Reign the firſt year.</date>
+               </dateline>
+               <signed>Per Actum Dominorum Secreti Concilij.
+<hi>WILL. PATERSON,</hi> Cls. Sti. Concil<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </signed>
+               <lb/>
+GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Maj<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y,</hi> Anno <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. 16<gap reason="illegible" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
